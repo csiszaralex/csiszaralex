@@ -21,11 +21,11 @@ I am a **Product-Minded Engineer** and **M.S. Student** at BME. I bridge the gap
 <div align="center">
 
 <a href="https://github.com/csiszaralex">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=csiszaralex&show_icons=true&bg_color=0a0a0a&title_color=3b82f6&text_color=ffffff&icon_color=f97316&hide_border=true&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csiszaralex&theme=dark&background=0a0a0a&border=3b82f6&stroke=f97316&ring=3b82f6&fire=f97316&currStreakLabel=3b82f6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
 <a href="https://github.com/csiszaralex">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csiszaralex&layout=compact&bg_color=0a0a0a&title_color=3b82f6&text_color=ffffff&hide_border=true&langs_count=8&hide=html,css,makefile,jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=csiszaralex&layout=compact&bg_color=0a0a0a&title_color=3b82f6&text_color=ffffff&hide_border=true&langs_count=8&hide=html,css,makefile,jupyter%20notebook&cache_seconds=1800" />
 </a>
 
 </div>
