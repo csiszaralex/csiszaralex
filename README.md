@@ -1,4 +1,4 @@
-### 🟢 System Status: Online
+# Hi, I'm Alex Csiszár 👋
 
 > **"Building systems that survive reality."**
 
@@ -6,7 +6,7 @@ I am a **Product-Minded Engineer** and **M.S. Student** at BME. I bridge the gap
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 💻 Technical Stack
 
 | Core | Infrastructure | Data & AI |
 | :--- | :--- | :--- |
@@ -16,7 +16,7 @@ I am a **Product-Minded Engineer** and **M.S. Student** at BME. I bridge the gap
 
 ---
 
-### 📊 Runtime Metrics
+### 📈 GitHub Activity
 
 <div align="center">
 
@@ -32,7 +32,7 @@ I am a **Product-Minded Engineer** and **M.S. Student** at BME. I bridge the gap
 
 ---
 
-### 📡 Network Interfaces
+### 📫 Connect
 
 - 🌐 **Portfolio:** [csalex.dev](https://csalex.dev)
 - 💼 **LinkedIn:** [linkedin.com/in/csalex1](https://linkedin.com/in/csalex1)
